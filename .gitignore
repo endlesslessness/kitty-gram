@@ -150,3 +150,13 @@ media/
 
 # Others
 node_modules
+
+.env
+__pycache__
+*.pyc
+*.sqlite3
+media/
+static/
+node_modules/
+build/
+.DS_Store
